@@ -6,7 +6,9 @@
 [![Email](https://img.shields.io/badge/-luca.polenta@hotmail.com-d14836?style=flat-square&logo=microsoft-outlook&logoColor=blue&link=mailto:luca.polenta@hotmail.com)](mailto:luca.polenta@hotmail.com)
 
 <b> Skills </b>
-[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 <b>📊 Some GitHub stats </b>
 <p float="left"> <!-- GitHub README Stats -->
