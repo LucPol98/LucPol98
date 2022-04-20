@@ -1,5 +1,5 @@
 <h2> Hi, I'm Luca Polenta! </h2>
-<p><em>MSc. Student in Artificial Intelligence and Robotics at <a href="https://www.diag.uniroma1.it/">Sapienza University of Rome</a> &nbsp; <img rc="https://github.com/LucPol98/university_projects/blob/main/logo_sapienza.jpg?raw=true" width="30"></br>
+<p><em>MSc. Student in Artificial Intelligence and Robotics at <a href="https://www.diag.uniroma1.it/">Sapienza University of Rome</a> &nbsp; <img rc="https://github.com/LucPol98/university_projects/blob/main/logo_sapienza.jpg"></br>
 </em></p>
 
 [![Linkedin: Luca Polenta](https://img.shields.io/badge/-LucPol98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucPol98/)](https://www.linkedin.com/in/luca-polenta/)
